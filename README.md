@@ -64,7 +64,7 @@ This repository contains an organized curriculum that covers a vast range of top
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/full-stack-data-science.git
+   git clone https://github.com/anjha1/Data-Science.git
    ```
 2. **Navigate to the Directory**:
    ```bash
