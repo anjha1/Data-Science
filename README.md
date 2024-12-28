@@ -1,6 +1,6 @@
-# Full Stack Data Science Repository
+# Data Science Repository
 
-Welcome to the **Full Stack Data Science** repository! This repository serves as a comprehensive guide to mastering data science from the foundational concepts to advanced topics in machine learning, data engineering, and full-stack development, specifically tailored for both beginners and advanced learners. Each module covers a crucial area of data science and includes hands-on exercises, code examples, and explanations.
+Welcome to the **Data Science** repository! This repository serves as a comprehensive guide to mastering data science from the foundational concepts to advanced topics in machine learning, data engineering, and Deep learning, specifically tailored for both beginners and advanced learners. Each module covers a crucial area of data science and includes hands-on exercises, code examples, and explanations.
 
 ## Table of Contents
 1. [Introduction](#introduction)
