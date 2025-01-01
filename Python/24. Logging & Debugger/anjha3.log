@@ -1,0 +1,23 @@
+2025-01-02 00:43:11,842 - INFO - Iterating through the list, current element: 1
+2025-01-02 00:43:11,842 - INFO - Element is an integer: 1
+2025-01-02 00:43:11,843 - INFO - Iterating through the list, current element: 2
+2025-01-02 00:43:11,843 - INFO - Element is an integer: 2
+2025-01-02 00:43:11,843 - INFO - Iterating through the list, current element: 3
+2025-01-02 00:43:11,843 - INFO - Element is an integer: 3
+2025-01-02 00:43:11,843 - INFO - Iterating through the list, current element: 4
+2025-01-02 00:43:11,843 - INFO - Element is an integer: 4
+2025-01-02 00:43:11,843 - INFO - Iterating through the list, current element: 5
+2025-01-02 00:43:11,843 - INFO - Element is an integer: 5
+2025-01-02 00:43:11,843 - INFO - Iterating through the list, current element: [7, 9, 33]
+2025-01-02 00:43:11,843 - INFO - Element is a list: [7, 9, 33]
+2025-01-02 00:43:11,843 - INFO - Iterating through nested list, current element: 7
+2025-01-02 00:43:11,843 - INFO - Nested element is an integer: 7
+2025-01-02 00:43:11,843 - INFO - Iterating through nested list, current element: 9
+2025-01-02 00:43:11,843 - INFO - Nested element is an integer: 9
+2025-01-02 00:43:11,843 - INFO - Iterating through nested list, current element: 33
+2025-01-02 00:43:11,843 - INFO - Nested element is an integer: 33
+2025-01-02 00:43:11,843 - INFO - Iterating through the list, current element: an
+2025-01-02 00:43:11,843 - INFO - Element is a string: an
+2025-01-02 00:43:11,843 - INFO - Iterating through the list, current element: jha
+2025-01-02 00:43:11,843 - INFO - Element is a string: jha
+2025-01-02 00:43:11,852 - INFO - my final result is for integer is [1, 2, 3, 4, 5, 7, 9, 33] and for String is ['an', 'jha'] 
