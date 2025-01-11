@@ -1,0 +1,3 @@
+2025-01-02 01:00:37,650 root DEBUG this is in  second debuging message
+2025-01-02 01:00:37,650 root CRITICAL This is my second critical message
+2025-01-02 01:00:37,651 root ERROR this is my second error
