@@ -1,5 +1,0 @@
-INFO:root:log this line of execution by anjha
-INFO:root:Dusra line likhta hu
-WARNING:root:This is Warning message
-ERROR:root:This is error message
-CRITICAL:root:This is my critical message
